@@ -1,1 +1,2 @@
 gradlew uploadArchives
+引用fb-like中的Activity 时需要在mainfest.xml声明
